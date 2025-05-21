@@ -14683,6 +14683,19 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Rev. A"
+		(at 87.378594 186.265581 0)
+		(layer "B.SilkS")
+		(uuid "0344e0e6-8a48-4363-b448-ee7e8ff44a9f")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text_box "ZX80/ZX81/Minstrel Keyboard for Gaming\nBrett Hallen, May 2025\nPort Macquarie, Australia\nwww.youtube.com/@Brfff"
 		(start 85.878594 173.765581)
 		(end 76.878594 122.765581)

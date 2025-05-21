@@ -4,6 +4,13 @@
 	(generator_version "9.0")
 	(uuid "3757cb76-c3de-4d54-af41-21871afa6750")
 	(paper "A4")
+	(title_block
+		(title "ZX80 Gaming Keyboard")
+		(date "22-May-2025")
+		(rev "A")
+		(company "Brett Hallen")
+		(comment 1 "www.youtube.com/@Brfff")
+	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x03"
 			(pin_names
@@ -979,7 +986,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Switch [SPACE] bar to [0]"
+	(text "Switch [SPACE] bar to [0]\n(jump key in ZX80 KONG)"
 		(exclude_from_sim no)
 		(at 237.49 149.86 0)
 		(effects
@@ -988,6 +995,46 @@
 			)
 		)
 		(uuid "57573e5e-e1a0-440a-aa25-491d9b1ec5c3")
+	)
+	(text_box "Dedicated [DELETE] key\n[SHIFT] + [0]"
+		(exclude_from_sim no)
+		(at 199.39 20.32 0)
+		(size 38.1 29.21)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "1559b3fb-0f2d-4116-93b2-cb091b8dd096")
+	)
+	(text_box "Dedicated cursor keys\n[5], [6], [7], [8]"
+		(exclude_from_sim no)
+		(at 81.28 19.05 0)
+		(size 86.36 25.4)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "e6c0b4e6-e907-49f7-9d88-b6354f5e579f")
 	)
 	(junction
 		(at 234.95 118.11)
@@ -1056,7 +1103,7 @@
 		(uuid "3ccd272c-8e35-4d73-95be-f57159ab2f1e")
 	)
 	(junction
-		(at 171.45 39.37)
+		(at 138.43 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4436cb78-bdaf-452c-bb1a-e298db8815cc")
@@ -1579,7 +1626,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 39.37) (xy 186.69 39.37)
+			(xy 138.43 39.37) (xy 153.67 39.37)
 		)
 		(stroke
 			(width 0)
@@ -1739,7 +1786,7 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 39.37) (xy 171.45 39.37)
+			(xy 120.65 39.37) (xy 138.43 39.37)
 		)
 		(stroke
 			(width 0)
@@ -2375,7 +2422,7 @@
 	)
 	(global_label "A11"
 		(shape input)
-		(at 135.89 41.91 0)
+		(at 101.6 40.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2385,7 +2432,7 @@
 		)
 		(uuid "2d12d162-44d2-4ead-ade1-22e27a3601f2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 142.3828 41.91 0)
+			(at 108.0928 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2419,7 +2466,7 @@
 	)
 	(global_label "COL2"
 		(shape input)
-		(at 166.37 34.29 180)
+		(at 133.35 34.29 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2429,7 +2476,7 @@
 		)
 		(uuid "31d41e16-ba55-4f9d-936b-ea719e4f4c19")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.5467 34.29 0)
+			(at 125.5267 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2595,7 +2642,7 @@
 	)
 	(global_label "COL3"
 		(shape input)
-		(at 181.61 34.29 180)
+		(at 148.59 34.29 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2605,7 +2652,7 @@
 		)
 		(uuid "73544aa9-b194-4a30-bf4b-8de4bd1da954")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 173.7867 34.29 0)
+			(at 140.7667 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2837,7 +2884,7 @@
 	)
 	(global_label "COL1"
 		(shape input)
-		(at 148.59 34.29 180)
+		(at 115.57 34.29 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2847,7 +2894,7 @@
 		)
 		(uuid "c22a1ff2-028a-49af-a50f-4dc7a7d47e5c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 140.7667 34.29 0)
+			(at 107.7467 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2969,7 +3016,7 @@
 	)
 	(global_label "A12"
 		(shape input)
-		(at 186.69 39.37 0)
+		(at 153.67 39.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2979,7 +3026,7 @@
 		)
 		(uuid "e00bd9cd-2df6-4ac5-bb81-ebe55b8be840")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 193.1828 39.37 0)
+			(at 160.1628 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3035,7 +3082,7 @@
 	)
 	(global_label "COL1"
 		(shape input)
-		(at 130.81 36.83 180)
+		(at 96.52 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3045,7 +3092,7 @@
 		)
 		(uuid "faf9d956-14f1-442c-8252-34e63ef4122f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 122.9867 36.83 0)
+			(at 88.6967 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3687,7 +3734,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 168.91 36.83 0)
+		(at 135.89 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3696,7 +3743,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e4a7e87-3c55-4a07-8a8c-062c7a91927d")
 		(property "Reference" "SW43"
-			(at 168.91 29.21 0)
+			(at 135.89 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3704,7 +3751,7 @@
 			)
 		)
 		(property "Value" "UP"
-			(at 168.91 31.75 0)
+			(at 135.89 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3712,7 +3759,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 168.91 36.83 0)
+			(at 135.89 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3721,7 +3768,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 168.91 36.83 0)
+			(at 135.89 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3730,7 +3777,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 168.91 36.83 0)
+			(at 135.89 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4796,7 +4843,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 133.35 39.37 0)
+		(at 99.06 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4805,7 +4852,7 @@
 		(fields_autoplaced yes)
 		(uuid "93b4de0a-718f-48d7-ab72-d2ce886f56e4")
 		(property "Reference" "SW41"
-			(at 133.35 31.75 0)
+			(at 99.06 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4813,7 +4860,7 @@
 			)
 		)
 		(property "Value" "LEFT"
-			(at 133.35 34.29 0)
+			(at 99.06 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4821,7 +4868,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 133.35 39.37 0)
+			(at 99.06 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4830,7 +4877,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 39.37 0)
+			(at 99.06 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4839,7 +4886,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 133.35 39.37 0)
+			(at 99.06 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4932,7 +4979,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 184.15 36.83 0)
+		(at 151.13 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4941,7 +4988,7 @@
 		(fields_autoplaced yes)
 		(uuid "96844fe1-e5ca-43ed-998c-a1f8d23bd106")
 		(property "Reference" "SW44"
-			(at 184.15 29.21 0)
+			(at 151.13 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4949,7 +4996,7 @@
 			)
 		)
 		(property "Value" "RIGHT"
-			(at 184.15 31.75 0)
+			(at 151.13 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4957,7 +5004,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 184.15 36.83 0)
+			(at 151.13 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4966,7 +5013,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 184.15 36.83 0)
+			(at 151.13 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4975,7 +5022,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 184.15 36.83 0)
+			(at 151.13 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5200,7 +5247,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 151.13 36.83 0)
+		(at 118.11 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5209,7 +5256,7 @@
 		(fields_autoplaced yes)
 		(uuid "a08561f3-3a46-462a-89ac-edfcd495d3e7")
 		(property "Reference" "SW42"
-			(at 151.13 29.21 0)
+			(at 118.11 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5217,7 +5264,7 @@
 			)
 		)
 		(property "Value" "DOWN"
-			(at 151.13 31.75 0)
+			(at 118.11 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5225,7 +5272,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
-			(at 151.13 36.83 0)
+			(at 118.11 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5234,7 +5281,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 36.83 0)
+			(at 118.11 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5243,7 +5290,7 @@
 			)
 		)
 		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 151.13 36.83 0)
+			(at 118.11 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
