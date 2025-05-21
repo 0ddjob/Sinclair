@@ -7,3 +7,7 @@ TS1500_Extender/TS1500_Extender.kicad_prl
 ZX80_Keyboard_Cherry/ZX80_Keyboard_Cherry.kicad_prl
 *.lck
 *.kicad_prl
+ZX81_Centronics/Kicad/fp-info-cache
+/ZX81_Centronics/Kicad/ZX81_Centronics-backups
+/ZX81_RAM_Upgrade/Kicad/ZX81_32KB-backups
+ZX81_RAM_Upgrade/Kicad/fp-info-cache
