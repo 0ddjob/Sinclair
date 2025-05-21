@@ -7,6 +7,13 @@
 		(legacy_teardrops no)
 	)
 	(paper "A3")
+	(title_block
+		(title "ZX80 Gaming Keyboard")
+		(date "22-May-2025")
+		(rev "A")
+		(company "Brett Hallen")
+		(comment 1 "www.youtube.com/@Brfff")
+	)
 	(layers
 		(0 "F.Cu" signal)
 		(2 "B.Cu" signal)
