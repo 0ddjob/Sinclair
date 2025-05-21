@@ -1,0 +1,9 @@
+.DS_Store
+ZX80_Keyboard_Cherry/fp-info-cache
+ZX80_Keyboard_Cherry/kbplacer.log
+TS1500_Extender/TS1500_Extender.kicad_prl
+/TS1500_Extender/TS1500_Extender-backups
+/ZX80_Keyboard_Cherry/ZX80_Keyboard_Cherry-backups
+ZX80_Keyboard_Cherry/ZX80_Keyboard_Cherry.kicad_prl
+*.lck
+*.kicad_prl
