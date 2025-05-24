@@ -17,7 +17,7 @@ The cursor keys on a ZX80/ZX81 are the 5/6/7/8 numeric keys along the top row.  
 22-May-2025: Sent to PCBWAY for test boards<br>
 
 # [ZX80 Pixel Synch](/ZX80_Pixel_Sync)
-Small daughterboard to fix the [ZX80's pixel synchronisation](http://blog.tynemouthsoftware.co.uk/2022/09/minstrel-2-pixel-synchronisation-part-1.html) issue on the Minstrel 2 computer (pre v2.8).  I have a v2.6 board.  
+Small daughterboard to fix the [ZX80's pixel synchronisation](http://blog.tynemouthsoftware.co.uk/2022/09/minstrel-2-pixel-synchronisation-part-1.html) issue on the Minstrel 2 computer v2.8 or earlier.  I have a v2.6 board.  
 
 ## Status
 7-May-2025: Sent to PCBWAY for test boards<br>
