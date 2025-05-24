@@ -1716,6 +1716,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "BOM:\n[1] 74LS74/74HCT74 or 74HC74 - note, must match the other types on your Minstrel 2\n[2] 1N4148 diode\n[3] 100nF capacitor, pitch 2.5mm\n[4] BC548 transistor\n[5] 75Ω resistor\n[6] 2 x 7-pin SIL turned pins\n[7] 14-pin DIP turned pin socket if not already fitted to Minstrel 2\n[8] Hook up wire for tap signals"
+		(exclude_from_sim no)
+		(at 12.7 67.31 0)
+		(size 91.44 20.32)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "535bb8d9-8078-439f-b3cd-18d7d3d6b11d")
+	)
 	(text_box "Original 74LS08 socket on v2.6 main board"
 		(exclude_from_sim no)
 		(at 13.97 13.97 0)
@@ -1736,7 +1756,7 @@
 		)
 		(uuid "88717c2b-2ee0-4d85-9412-428d496f4c76")
 	)
-	(text_box "Common points on v2.6 main board:\nPoint A: 74LS08 pin 11 to R201/D201\nPoint B: 74LS08 pin 9 to R201/D201/C201\nPoint C: 74LS08 pin 8 to R30\nPoint D: R30, R32, R100, TR101 base\nPoint E: 74LS08 pin 6 to R32\n\n\nOther changes:\nMove TR101 (BC548B) from main board to daughterboard.\nRemove R100 (3.3KΩ) between point D and GND.\nNew R100 (75Ω) on daughterboard.\nNew D202 on daughterboard.\nR32 now pulled up to +5V (point E) via original 74LS08 pin 6.\n"
+	(text_box "Common points on v2.6 main board:\nPoint A: 74LS08 pin 11 to R201/D201\nPoint B: 74LS08 pin 9 to R201/D201/C201\nPoint C: 74LS08 pin 8 to R30\nPoint D: R30, R32, R100, TR101 base\nPoint E: 74LS08 pin 6 to R32\n\n\nOther changes:\nMove TR101 (BC548B) from main board to daughterboard.\nRemove R100 (3.3KΩ) between point D and GND (if fitted).\nNew R100 (75Ω) on daughterboard.\nNew D202 on daughterboard.\nR32 now pulled up to +5V (point E) via original 74LS08 pin 6.\n"
 		(exclude_from_sim no)
 		(at 12.7 104.14 0)
 		(size 66.04 30.48)
