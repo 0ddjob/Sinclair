@@ -21,7 +21,7 @@ Small daughterboard to fix the [ZX80's pixel synchronisation](http://blog.tynemo
 
 ## Status
 7-May-2025: Sent to PCBWAY for test boards
-21-May-2025: Was supposed to arrive but courier couldn't find it
+23-May-2025: Tested successfully on my Minstrel v2.6 board! 
 
 # [ZX81 Centronics](/ZX81_Centronics)
 Recreating a DIY centronics interface from German computer magazine c't.<br>
