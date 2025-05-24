@@ -1,8 +1,0 @@
-﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Device,Sim.Pins
-C1,1,100nF,C_Disc_D3.0mm_W2.0mm_P2.50mm,,,,tht,Unpolarized capacitor,,
-D202,1,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal,,,,tht,Diode,D,1=K 2=A
-IC202,1,74LS74,DIP-14_W7.62mm,,,,tht,"Dual D Flip-flop, Set & Reset",,
-J1,1,IC201,DIP-14_W7.62mm_Socket,,,,tht,"Generic connector, double row, 02x07, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)",,
-J2,1,To_Minstrel2,PinHeader_1x04_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",,
-R100,1,75Ω,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,,
-TR101,1,BC548,TO-92_Inline,,,,tht,"0.1A Ic, 30V Vce, Small Signal NPN Transistor, TO-92",,

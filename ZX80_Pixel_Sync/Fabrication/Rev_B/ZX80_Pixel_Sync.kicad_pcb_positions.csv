@@ -1,0 +1,8 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+90.59,-42.565,90.0,top,C1,,,C_Disc_D3.0mm_W2.0mm_P2.50mm,100nF,tht
+90.59,-45.685,-90.0,top,D202,,,D_DO-35_SOD27_P7.62mm_Horizontal,1N4148,tht
+87.21,-40.065,-90.0,top,IC202,,,DIP-14_W7.62mm,74LS74,tht
+66.27,-39.975,-90.0,top,J1,,,DIP-14_W7.62mm_Socket,IC201,tht
+86.8687,-53.305,-90.0,top,J2,,,PinHeader_1x04_P2.54mm_Vertical,To_Minstrel2,tht
+58.655,-44.087,0.0,top,R100,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,75Ω,tht
+51.72,-44.085,0.0,top,TR101,,,TO-92_Inline,BC548,tht

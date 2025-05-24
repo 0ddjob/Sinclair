@@ -1736,10 +1736,10 @@
 		)
 		(uuid "88717c2b-2ee0-4d85-9412-428d496f4c76")
 	)
-	(text_box "Common points on v2.6 main board:\nPoint A: 74LS08 pin 11 to R201/D201\nPoint B: 74LS08 pin 9 to R201/D201/C201\nPoint C: 74LS08 pin 8 to R30\nPoint D: R30, R32, R100, TR101 base\nPoint E: 74LS08 pin 6 to R32\n\n\nOther changes:\nMove TR101 (BC548B) from main board to daughterboard.\nRemove R100 (3.3KΩ) between point D and GND.\nNew R100 (75Ω) on daughterboard.\nNew D202 on daughterboard.\nR32 now pulled up to +5V (point E) via original 74LS08 pin 6.\n\nBodge wires:\n~{SYNC} signal from (somewhere)\n6.5MHz signal from (somewhere)\nVIDEO_OUT signal to TR101 original emitter\nD signal to TR101 original base, or R30/R32 connection point."
+	(text_box "Common points on v2.6 main board:\nPoint A: 74LS08 pin 11 to R201/D201\nPoint B: 74LS08 pin 9 to R201/D201/C201\nPoint C: 74LS08 pin 8 to R30\nPoint D: R30, R32, R100, TR101 base\nPoint E: 74LS08 pin 6 to R32\n\n\nOther changes:\nMove TR101 (BC548B) from main board to daughterboard.\nRemove R100 (3.3KΩ) between point D and GND.\nNew R100 (75Ω) on daughterboard.\nNew D202 on daughterboard.\nR32 now pulled up to +5V (point E) via original 74LS08 pin 6.\n"
 		(exclude_from_sim no)
-		(at 13.97 91.44 0)
-		(size 74.93 43.18)
+		(at 12.7 104.14 0)
+		(size 66.04 30.48)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -1756,7 +1756,7 @@
 		)
 		(uuid "8a56adef-d8e5-4bb5-9822-345bd3d1d94e")
 	)
-	(text_box "Move TR101 from main board to daughterboard"
+	(text_box "Move TR101 from main board to daughterboard\n(or remove and install new)"
 		(exclude_from_sim no)
 		(at 63.5 13.97 0)
 		(size 49.53 48.26)
@@ -1795,6 +1795,26 @@
 			(justify left top)
 		)
 		(uuid "dc4f3aaa-271d-4d7e-b959-73784fef7f4d")
+	)
+	(text_box "Four tap wires (see images):\n[1] ~{SYNC} signal from 74LS74 pin 6 (2nd chip from bottom on left)\n[2] 6.5MHz signal from left/west pin of 47pF capacitor (6th capacitor from bottom, between 470Ω resistor & 47pf capacitor)\n[3] VIDEO_OUT signal to TR101 original emitter\n[4] D signal to TR101 original base, or R30/R32 connection point."
+		(exclude_from_sim no)
+		(at 12.7 88.9 0)
+		(size 128.27 12.7)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "edfbde97-7464-4983-9652-69d6f0f6e55a")
 	)
 	(no_connect
 		(at 179.07 44.45)
@@ -1922,28 +1942,6 @@
 			)
 		)
 	)
-	(global_label "D"
-		(shape input)
-		(at 165.1 59.69 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "1b9214d1-a8bb-44d7-b1c2-837fa84b6e12")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.8448 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "6.5MHz"
 		(shape input)
 		(at 165.1 62.23 180)
@@ -2001,28 +1999,6 @@
 		(uuid "229bd853-0370-4339-83d0-e7807d310061")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 21.0843 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "~{SYNC}"
-		(shape input)
-		(at 165.1 67.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2514349c-7499-4235-97bb-7b3a4e40d6c9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.2162 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2098,6 +2074,28 @@
 			)
 		)
 	)
+	(global_label "~{SYNC}"
+		(shape input)
+		(at 165.1 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4acce529-9992-4657-96c5-242d16f62dab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.2162 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape input)
 		(at 176.53 82.55 0)
@@ -2138,6 +2136,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "D"
+		(shape input)
+		(at 165.1 67.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "574ecd02-3596-41e1-9ac4-3114a5190459")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 160.8448 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -2759,7 +2779,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "To_Minstrel2"
+		(property "Value" "Tap_Signals"
 			(at 172.72 64.7699 0)
 			(effects
 				(font
