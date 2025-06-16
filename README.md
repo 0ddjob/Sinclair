@@ -11,7 +11,7 @@ The Timex Sinclair TS1500 is a 16KB ZX81/TS1000 in a Spectrum-style case.  As su
 22-May-2025: Work in progress<br>
 
 # [ZX80 Gaming Keyboard](/ZX80_Gaming_Keyboard)
-The cursor keys on a ZX80/ZX81 are the 5/6/7/8 numeric keys along the top row.  My simple brain can't readily adapt to this in games like ZX80 KONG or PACMAN so this is just a ZX80/ZX81 compatible keyboard with additional cursor keys.  Designed for use with the Minstrel 2 computer.
+The cursor keys on a ZX80/ZX81 are the 5/6/7/8 numeric keys along the top row.  My simple brain can't readily adapt to this in games like ZX80 KONG or PACMAN so this is just a ZX80/ZX81 compatible keyboard with additional cursor keys.  Designed initially for use with the Minstrel 2 computer (ZX80), but can also be used with the ZX80, Minstrel 3/ZX81 and Minstrel 4th/Jupiter Ace.
 
 ## Video
 [Minstrel 2 (Sinclair ZX80 Clone): Part 3 (Gaming Keyboard)](https://youtu.be/veES_CpFuDQ)
