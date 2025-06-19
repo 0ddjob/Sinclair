@@ -12,6 +12,9 @@ The Cambridge Computers Z88 has a DE9 serial port with the following [pinout](ht
 
 To connect to a device with a DB25 plug we need to through-connect the DE9 pins to the equivalent on the DB25 side.  Additionally, we need to connect DB25 pin 6 (DSR, data set ready) to the DCD signal.<br>
 
-Note that DB25 pin 1 is Protective Ground (PG) and must not be connected to signal ground.
+Note that DB25 pin 1 is Protective Ground (PG) and must not be connected to signal ground.<br>
+
+Z88 side: DE9 male<br>
+DB25 side: DB25 female<br>
 
 ![Z88 DE9 converter board](Z88_Serial_DE9-to-DB25.png)
