@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+90.3575,-60.706666,-90.0,top,J1,,,DSUB-9_Pins_EdgeMount_P2.77mm,Z88_Serial,smt
+100.3575,-60.706666,90.0,top,J2,,,DSUB-25_Socket_EdgeMount_P2.77mm,DB25_Socket,smt
+99.6975,-41.236666,0.0,top,J3,,,PinHeader_1x01_P2.54mm_Vertical,PG,tht
