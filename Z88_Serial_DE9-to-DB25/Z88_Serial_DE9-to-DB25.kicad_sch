@@ -1689,10 +1689,30 @@
 			(embedded_fonts no)
 		)
 	)
-	(text_box "Notes:\n[1] Wire DB25 pin 1 (Protective Ground) to DB25 shell. Do not connect to signal ground.\n[2] Tie DB25 pin 6 (DSR) to DCD (DB25 pin 8).\n[3] DE9 identifies as male, DB25 identifies as female."
+	(text_box "Standard DE9 Serial Pinout\nPin 1: DCD\nPin 2: TxD\nPin 3: RxD\nPin 4: DTR\nPin 5: GND\nPin 6: DSR\nPin 7: CTS\nPin 8: RTS\nPin 9: RI"
 		(exclude_from_sim no)
-		(at 100.33 16.51 0)
-		(size 93.98 10.16)
+		(at 133.35 57.15 0)
+		(size 29.21 22.86)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "56124275-9f39-4b7c-9d30-c2439ff920d0")
+	)
+	(text_box "Notes:\n[1] Wire DB25 pin 1 (Protective Ground) to DB25 shell (if appropriate). \n    Do not connect to signal ground.\n[2] Tie DB25 pin 6 (DSR) to DCD (DB25 pin 8).\n[3] DE9 identifies as male, DB25 identifies as female."
+		(exclude_from_sim no)
+		(at 113.03 31.75 0)
+		(size 73.66 13.97)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
