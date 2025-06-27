@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "ZX80 Gaming Keyboard")
-		(date "15-Jun-2025")
-		(rev "B")
+		(date "27-Jun-2025")
+		(rev "C")
 		(company "Brett Hallen")
 		(comment 1 "www.youtube.com/@Brfff")
 	)
@@ -2050,16 +2050,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 40.64) (xy 226.06 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "398c02d9-81f2-4cf9-834d-ac9ec6970501")
-	)
-	(wire
-		(pts
 			(xy 116.84 87.63) (xy 116.84 106.68)
 		)
 		(stroke
@@ -2750,7 +2740,7 @@
 	)
 	(global_label "A8"
 		(shape input)
-		(at 237.49 35.56 0)
+		(at 229.87 35.56 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2760,7 +2750,7 @@
 		)
 		(uuid "06e94a9f-75fc-492a-9633-7c4a5e3f456b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 242.7733 35.56 0)
+			(at 235.1533 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3586,7 +3576,7 @@
 	)
 	(global_label "A12"
 		(shape input)
-		(at 237.49 40.64 0)
+		(at 233.68 40.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3596,7 +3586,7 @@
 		)
 		(uuid "fc6210c7-3a6d-4b9f-85e0-d7ce9488e6f5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 243.9828 40.64 0)
+			(at 240.1728 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5195,15 +5185,15 @@
 	)
 	(symbol
 		(lib_id "Device:D")
-		(at 233.68 40.64 180)
+		(at 229.87 40.64 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "80be6ba9-6fb8-4893-8900-706b7954644e")
-		(property "Reference" "D2"
-			(at 232.41 43.18 0)
+		(property "Reference" "D1"
+			(at 228.6 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5212,7 +5202,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 231.14 45.72 0)
+			(at 227.33 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5221,7 +5211,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 233.68 40.64 0)
+			(at 229.87 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5230,7 +5220,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 233.68 40.64 0)
+			(at 229.87 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5239,7 +5229,7 @@
 			)
 		)
 		(property "Description" "Diode"
-			(at 233.68 40.64 0)
+			(at 229.87 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5248,7 +5238,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 233.68 40.64 0)
+			(at 229.87 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5257,7 +5247,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 233.68 40.64 0)
+			(at 229.87 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5274,7 +5264,7 @@
 		(instances
 			(project ""
 				(path "/3757cb76-c3de-4d54-af41-21871afa6750"
-					(reference "D2")
+					(reference "D1")
 					(unit 1)
 				)
 			)
@@ -6219,92 +6209,6 @@
 			(project "ZX80_Keyboard_Cherry"
 				(path "/3757cb76-c3de-4d54-af41-21871afa6750"
 					(reference "H3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:D")
-		(at 233.68 35.56 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b89ff8b2-db4c-492d-9c46-8fecc6a30ca1")
-		(property "Reference" "D1"
-			(at 233.68 29.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 233.68 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 233.68 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 233.68 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Diode"
-			(at 233.68 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 233.68 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 233.68 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8480e5fe-57a1-433d-af93-88aecda1bd86")
-		)
-		(pin "2"
-			(uuid "33a47529-b455-4527-98bf-2ae88529be9e")
-		)
-		(instances
-			(project ""
-				(path "/3757cb76-c3de-4d54-af41-21871afa6750"
-					(reference "D1")
 					(unit 1)
 				)
 			)

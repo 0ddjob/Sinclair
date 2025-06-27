@@ -14,12 +14,14 @@ The Timex Sinclair TS1500 is a 16KB ZX81/TS1000 in a Spectrum-style case.  As su
 The cursor keys on a ZX80/ZX81 are the 5/6/7/8 numeric keys along the top row.  My simple brain can't readily adapt to this in games like ZX80 KONG or PACMAN so this is just a ZX80/ZX81 compatible keyboard with additional cursor keys.  Designed initially for use with the Minstrel 2 computer (ZX80), but can also be used with the ZX80, Minstrel 3/ZX81 and Minstrel 4th/Jupiter Ace.
 
 ## Video
-[Minstrel 2 (Sinclair ZX80 Clone): Part 3 (Gaming Keyboard)](https://youtu.be/veES_CpFuDQ)
+- [Minstrel 2 (Sinclair ZX80 Clone): Part 3 (Gaming Keyboard)](https://youtu.be/veES_CpFuDQ)
+- [Gaming Keyboard for ZX80/ZX81/Minstrel/Jupiter Ace: Part 1 (Minstrel 2 Test)](https://youtu.be/O0Em2sR0H4w)
 
 ## Status
 22-May-2025: Sent to PCBWAY for test boards<br>
 14-Jun-2025: Tested, errors found & fixed, PCB layout will be corrected<br>
 16-Jun-2025: Revised PCB layout submitted to PCBWAY for test fabrication<br>
+27-Jun-2025: Rev. B keyboard tested mostly ok, dedicated RUBOUT key not working though<br>
 
 # [ZX80 Pixel Synch](/ZX80_Pixel_Sync)
 Small daughterboard to fix the [ZX80's pixel synchronisation](http://blog.tynemouthsoftware.co.uk/2022/09/minstrel-2-pixel-synchronisation-part-1.html) issue on the Minstrel 2 computer v2.8 or earlier.  I have a v2.6 board.  
