@@ -17,7 +17,7 @@ I think Gateron Low Profile (KS-33) type key switches should work.
 - 64 key switches
 - 53 x 1u
 - 5 x 1u blank (INDEX, MENU, HELP, SQUARE, CAPS LOCK)
-- 1 x 1.25x2u (ENTER)
+- 1 x 1.25x2u (ISO ENTER)
 - 1 x 1.5u (TAB)
 - 1 x 1.75u (DIAMOND/blank)
 - 2 x 2u (SHIFT)
