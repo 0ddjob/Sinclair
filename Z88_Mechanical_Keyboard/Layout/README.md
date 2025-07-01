@@ -3,4 +3,6 @@
 Files generated after designing the layout.
 
 ## [Plate & Case Builder](http://builder.swillkb.com)
-Copy the raw JSON from the layout editor to generate a plate layout & case.
+Copy the raw JSON from the layout editor to generate a plate layout & case.<br>
+The plate layout can be imported into KiCad to simplify the key switch placement.<br>
+
