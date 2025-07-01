@@ -9,6 +9,8 @@ By this, I mean the SHIFTED characters on each key match a modern keyboard so a 
 
 ![Z88 Keyboard Layout](Layout/cambridge-computer-z88.jpg)
 
+<script src="https://gist.github.com/0ddjob/f5774ed0544e4333186cfc4f175c03b7.js"></script>
+
 ## Construction
 I think Gateron Low Profile (KS-33) type key switches should work.
 
