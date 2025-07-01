@@ -24,5 +24,7 @@ I think Gateron Low Profile (KS-33) type key switches should work.
 - 1 x 7u (SPACE)
 - Stabiliser for SPACE
 
+![3D image of keyboard](Z88_Mechanical_Keyboard_3D.png)
+
 ## Status
 1-Jul-2025: Work in progress
