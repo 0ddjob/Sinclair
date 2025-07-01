@@ -63,3 +63,10 @@ Simple board to convert Z88 DE9 serial port to standard DE9 to use with Serial-t
 ## Status
 1-Jul-2025: Initial design<br>
 
+# [Z88 Mechanical Keyboard](/Z88_Mechanical_Keyboard)
+The original keyboard on my Z88 seems a bit flaky - let's try designing a nice, modern replacement.
+
+## Status
+1-Jul-2025: Work in progress.<br>
+
+
