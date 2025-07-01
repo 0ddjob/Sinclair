@@ -50,6 +50,9 @@ Yes, yes, it's been done many times before.  Planning a few different versions: 
 # [Z88 Serial Port Converter (DE9-to-DB25)](/Z88_Serial_DE9-to-DB25)
 I'm finally getting my hands on a Cambridge Computers Z88.  I realised that the [Universal Backpack Drive (UBPD)](https://www.soigeneris.com/universal-backpack-drive) I have for the NEC-PC8201A will also work on the Z88 but requires a converter board.  It's possible to order one from Soigeneris when you order a UBPD and there is an existing design available on [Github](https://github.com/bkw777/Z88_RS232), but I thought I'd also have a crack at it.
 
+## Video
+[Cambridge Computer Z88: Part 2 (Backpack Drive - First Attempt)](https://youtu.be/SjToMHrZwcI)
+
 ## Status
 19-Jun-2025: Test boards ordered from PCBWAY<br>
 30-Jun-2025: Tested successfully
