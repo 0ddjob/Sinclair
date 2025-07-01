@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=5-520314-8
+PartCategory=Connector
+PackageCategory=Other
+PinCount=8
+Version=2.3
+Released=2021-09-28 10:57:34
+Downloaded=2025-07-01 12:54:23
+3D=Y
