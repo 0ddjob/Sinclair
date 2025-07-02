@@ -432,7 +432,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -773,7 +773,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -1114,7 +1114,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -1455,7 +1455,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -1796,7 +1796,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -2137,7 +2137,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -2478,7 +2478,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -2819,7 +2819,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -3160,7 +3160,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -3501,7 +3501,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -3842,7 +3842,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -4183,7 +4183,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -4524,7 +4524,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -4865,7 +4865,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -5206,7 +5206,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -5547,7 +5547,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -5888,7 +5888,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -6229,7 +6229,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -6570,7 +6570,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -6911,7 +6911,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -7252,7 +7252,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -7593,7 +7593,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -7934,7 +7934,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -8275,7 +8275,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -8616,7 +8616,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -8957,7 +8957,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -9298,7 +9298,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -9639,7 +9639,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -9980,7 +9980,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -10321,7 +10321,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -10662,7 +10662,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -11003,7 +11003,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -11344,7 +11344,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -11685,7 +11685,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -12026,7 +12026,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -12367,7 +12367,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -12708,7 +12708,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -13049,7 +13049,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -13390,7 +13390,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -13731,7 +13731,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -14072,7 +14072,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -14413,7 +14413,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -14754,7 +14754,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -15095,7 +15095,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -15436,7 +15436,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -15777,7 +15777,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -16118,7 +16118,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -16459,7 +16459,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -16800,7 +16800,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -17141,7 +17141,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -17482,7 +17482,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -17823,7 +17823,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -18164,7 +18164,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -18505,7 +18505,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -18846,7 +18846,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -19187,7 +19187,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -19528,7 +19528,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -19869,7 +19869,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -20210,7 +20210,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -20551,7 +20551,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -20892,7 +20892,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -21233,7 +21233,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -21574,7 +21574,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -21915,7 +21915,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/Gateron_KS-33.stp"
+		(model "${KIPRJMOD}/packages3D/Gateron_KS-33.stp"
 			(offset
 				(xyz -60 0 -3.5)
 			)
@@ -22453,7 +22453,7 @@
 			(uuid "e6640d17-7f07-4d63-8246-bfe905f21f4d")
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/LIB_5-520314-8/5-520314-8/3D/5-520314-8.stp"
+		(model "${KIPRJMOD}/packages3D/5-520314-8.stp"
 			(offset
 				(xyz 9 -7 2)
 			)
@@ -22991,7 +22991,7 @@
 			(uuid "106a180f-a50b-4d94-976b-1320e15b254b")
 		)
 		(embedded_fonts no)
-		(model "/Users/brett/Library/CloudStorage/Dropbox/Kicad/LIB_5-520314-8/5-520314-8/3D/5-520314-8.stp"
+		(model "${KIPRJMOD}/packages3D/5-520314-8.stp"
 			(offset
 				(xyz 9 -7 2)
 			)
