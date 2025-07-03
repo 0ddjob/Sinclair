@@ -1,4 +1,6 @@
 # Keyboard Design Files
+The Z88 has a 7u SPACE  but not sure if I will be able to get the key cap set I want with a 7u space bar or with a 6.25u space bar, hence the two sets of files.<br>
+For the shortened 6.25u SPACE design I have extended the CAPS LOCK from 1u to 1.75u.<br>
 ## [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/#/gists/f5774ed0544e4333186cfc4f175c03b7)
 Files generated after designing the layout.<br>
 
