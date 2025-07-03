@@ -2,6 +2,7 @@
   {
     "name": "Cambridge Computer Z88",
     "author": "Brett Hallen",
+    "notes": "Z88 SPACE is 7u but it seems that 6.25u is the standard today, so increased CAPS LOCK from 1u to 1.75u to compensate.\nSwitch type is Gateron KS-33 low profile.",
     "switchMount": "cherry",
     "switchBrand": "gateron",
     "pcb": true
@@ -129,8 +130,13 @@
       "f": 3
     },
     "INDEX",
-    {},
+    {
+      "f": 3
+    },
     "MENU",
+    {
+      "f": 3
+    },
     "HELP",
     {
       "fa": [
@@ -139,7 +145,7 @@
     },
     "<i class='fa fa-square-o'></i>",
     {
-      "w": 7
+      "w": 6.25
     },
     "",
     {
@@ -147,7 +153,8 @@
       "fa": [
         4,
         4
-      ]
+      ],
+      "w": 1.75
     },
     "CAPS\nLOCK",
     {
