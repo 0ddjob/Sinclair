@@ -1785,24 +1785,24 @@
   
     <!-- Outer Border -->
     <rect x="703" y="163"
-          width="52" height="52"
+          width="106" height="52"
           rx="5" fill="#ffffff" class="outer border"/>
     
     <!-- Outer Fill -->
     <rect x="703" y="163"
-          width="52" height="52"
+          width="106" height="52"
           rx="5" fill="#ffffff"/>
     
 
     
       <!-- Inner Border -->
       <rect x="709" y="166"
-            width="40" height="40"
+            width="94" height="40"
             rx="5" fill="#fffffe" class="inner border"/>
       
       <!-- Inner Fill -->
       <rect x="709" y="166"
-            width="40" height="40"
+            width="94" height="40"
             rx="5" fill="#fffffe"/>
       
       
