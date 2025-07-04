@@ -7,7 +7,7 @@ Not sure if it'll work - still need to figure out the mounting points, plus also
 The layout almost matches a modern set of keycaps, apart from the custom ones.<br>
 By this, I mean the SHIFTED characters on each key match a modern keyboard so a generic set of key caps, plus some blanks, should work.
 
-![Z88 Keyboard Layout](Layout/cambridge-computer-z88.jpg)
+![Z88 Keyboard Layout](Layout/cambridge-computer-z88_7u_space.jpg)
 
 [Gist for keyboard design](https://gist.github.com/0ddjob/f5774ed0544e4333186cfc4f175c03b7)
 
@@ -27,4 +27,6 @@ I think Gateron Low Profile (KS-33) type key switches should work.
 ![3D image of keyboard](Z88_Mechanical_Keyboard_3D.png)
 
 ## Status
-1-Jul-2025: Work in progress
+1-Jul-2025: Work in progress<br>
+3-Jul-2025: Added 6.25u space bar layout<br>
+4-Jul-2025: Added inverted-T cursor layout<br>

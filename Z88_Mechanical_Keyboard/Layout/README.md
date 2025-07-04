@@ -1,10 +1,19 @@
 # Keyboard Design Files
-The Z88 has a 7u SPACE  but not sure if I will be able to get the key cap set I want with a 7u space bar or with a 6.25u space bar, hence the two sets of files.<br>
-For the shortened 6.25u SPACE design I have extended the CAPS LOCK from 1u to 1.75u.<br>
+There are three layouts I've designed:
+- 7u space bar (same as original Z88)
+- 6.25u space bar/1.75u CAPS LOCK (more common space bar length today?)
+- Cursors arranged as inverted T
+
 ## [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/#/gists/f5774ed0544e4333186cfc4f175c03b7)
 Files generated after designing the layout.<br>
 
-![Keyboard layout](cambridge-computer-z88.png)
+![Z88 original keyboard layout](cambridge-computer-z88_7u_space.png)<br>
+
+![6.25u space bar](cambridge-computer-z88_6.25u_space.png)<br>
+
+![Inverted T cursor layout](cambridge-computer-z88_T_cursor.png)<br>
+
+
 
 ## [Plate & Case Builder](http://builder.swillkb.com)
 Copy the raw JSON from the layout editor to generate a plate layout & case.<br>
