@@ -7,10 +7,13 @@ There are three layouts I've designed:
 ## [Keyboard Layout Editor](https://www.keyboard-layout-editor.com/#/gists/f5774ed0544e4333186cfc4f175c03b7)
 Files generated after designing the layout.<br>
 
+### Original Z88 Layout (7u space bar)
 ![Z88 original keyboard layout](cambridge-computer-z88_7u_space.png)<br>
 
+### 6.25u space bar
 ![6.25u space bar](cambridge-computer-z88_6.25u_space.png)<br>
 
+### Inverted-T Cursor Layout
 ![Inverted T cursor layout](cambridge-computer-z88_T_cursor.png)<br>
 
 
