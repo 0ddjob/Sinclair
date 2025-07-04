@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Z88 Mechanical Keyboard")
-		(date "1-Jul-2025")
-		(rev "WIP")
+		(date "4-Jul-2025")
+		(rev "A")
 		(company "Brett Hallen")
 		(comment 1 "www.youtube.com/@Brfff")
 	)
@@ -3509,7 +3509,7 @@
 	)
 	(symbol
 		(lib_id "Clueless_Engineer:Stabiliser")
-		(at 232.41 107.95 0)
+		(at 207.01 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3518,7 +3518,7 @@
 		(fields_autoplaced yes)
 		(uuid "1e26815c-f192-479b-925a-a271f919a59f")
 		(property "Reference" "KB1"
-			(at 233.68 108.5493 0)
+			(at 208.28 127.5993 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3526,8 +3526,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 233.68 110.4544 0)
+		(property "Value" "SHIFT_LH"
+			(at 208.28 129.5044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3536,7 +3536,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
-			(at 232.41 107.95 0)
+			(at 207.01 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3545,7 +3545,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 232.41 107.95 0)
+			(at 207.01 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3554,7 +3554,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 232.41 107.95 0)
+			(at 207.01 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5885,7 +5885,7 @@
 	)
 	(symbol
 		(lib_id "Clueless_Engineer:Stabiliser")
-		(at 261.62 107.95 0)
+		(at 229.87 134.62 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5894,7 +5894,7 @@
 		(fields_autoplaced yes)
 		(uuid "9969ecc7-4327-498c-b7b9-242ace7e90b1")
 		(property "Reference" "KB4"
-			(at 262.89 108.5493 0)
+			(at 231.14 135.2193 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5902,8 +5902,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 262.89 110.4544 0)
+		(property "Value" "SPACE_BAR"
+			(at 231.14 137.1244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5912,7 +5912,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_7.00u"
-			(at 261.62 107.95 0)
+			(at 229.87 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5921,7 +5921,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 261.62 107.95 0)
+			(at 229.87 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5930,7 +5930,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 261.62 107.95 0)
+			(at 229.87 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6088,7 +6088,7 @@
 	)
 	(symbol
 		(lib_id "Clueless_Engineer:Stabiliser")
-		(at 241.3 107.95 0)
+		(at 255.27 127 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6097,7 +6097,7 @@
 		(fields_autoplaced yes)
 		(uuid "a7421e99-6654-42ff-8c82-881ff0b3f6ea")
 		(property "Reference" "KB2"
-			(at 242.57 108.5493 0)
+			(at 256.54 127.5993 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6105,8 +6105,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 242.57 110.4544 0)
+		(property "Value" "SHIFT_RH"
+			(at 256.54 129.5044 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6115,7 +6115,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
-			(at 241.3 107.95 0)
+			(at 255.27 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6124,7 +6124,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 241.3 107.95 0)
+			(at 255.27 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6133,7 +6133,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 241.3 107.95 0)
+			(at 255.27 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6764,7 +6764,7 @@
 	)
 	(symbol
 		(lib_id "Clueless_Engineer:Stabiliser")
-		(at 251.46 107.95 0)
+		(at 255.27 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6773,7 +6773,7 @@
 		(fields_autoplaced yes)
 		(uuid "cae51827-0303-4f71-b7fa-410ecde345c3")
 		(property "Reference" "KB3"
-			(at 252.73 108.5493 0)
+			(at 256.54 112.3593 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6781,8 +6781,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 252.73 110.4544 0)
+		(property "Value" "ENTER"
+			(at 256.54 114.2644 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6791,7 +6791,7 @@
 			)
 		)
 		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
-			(at 251.46 107.95 0)
+			(at 255.27 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6800,7 +6800,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 251.46 107.95 0)
+			(at 255.27 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6809,7 +6809,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 251.46 107.95 0)
+			(at 255.27 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
