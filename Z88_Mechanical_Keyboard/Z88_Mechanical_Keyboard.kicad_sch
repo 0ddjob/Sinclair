@@ -272,6 +272,90 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Clueless_Engineer:Stabiliser"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "KB"
+				(at 2.54 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Stabiliser_0_1"
+				(rectangle
+					(start -2.54 2.54)
+					(end 0 -5.08)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -1.2768 -6.1794)
+					(radius 1.0716)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -1.2056 3.7106)
+					(radius 1.0716)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Mechanical:MountingHole"
 			(pin_names
 				(offset 1.016)
@@ -3424,6 +3508,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Clueless_Engineer:Stabiliser")
+		(at 232.41 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1e26815c-f192-479b-925a-a271f919a59f")
+		(property "Reference" "KB1"
+			(at 233.68 108.5493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 233.68 110.4544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
+			(at 232.41 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 232.41 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/52bc2244-0402-458b-a824-605619f8f036"
+					(reference "KB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 49.53 58.42 0)
 		(unit 1)
@@ -5736,6 +5884,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Clueless_Engineer:Stabiliser")
+		(at 261.62 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9969ecc7-4327-498c-b7b9-242ace7e90b1")
+		(property "Reference" "KB4"
+			(at 262.89 108.5493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 262.89 110.4544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_7.00u"
+			(at 261.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 261.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 261.62 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Z88_Mechanical_Keyboard"
+				(path "/52bc2244-0402-458b-a824-605619f8f036"
+					(reference "KB4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Clueless_Engineer:5-520314-8")
 		(at 195.58 38.1 90)
 		(unit 1)
@@ -5869,6 +6081,70 @@
 			(project ""
 				(path "/52bc2244-0402-458b-a824-605619f8f036"
 					(reference "SK6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Clueless_Engineer:Stabiliser")
+		(at 241.3 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a7421e99-6654-42ff-8c82-881ff0b3f6ea")
+		(property "Reference" "KB2"
+			(at 242.57 108.5493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 242.57 110.4544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
+			(at 241.3 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 241.3 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 241.3 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Z88_Mechanical_Keyboard"
+				(path "/52bc2244-0402-458b-a824-605619f8f036"
+					(reference "KB2")
 					(unit 1)
 				)
 			)
@@ -6481,6 +6757,70 @@
 			(project "Z88_Mechanical_Keyboard"
 				(path "/52bc2244-0402-458b-a824-605619f8f036"
 					(reference "SW12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Clueless_Engineer:Stabiliser")
+		(at 251.46 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cae51827-0303-4f71-b7fa-410ecde345c3")
+		(property "Reference" "KB3"
+			(at 252.73 108.5493 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 252.73 110.4544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_2.00u"
+			(at 251.46 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 251.46 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Z88_Mechanical_Keyboard"
+				(path "/52bc2244-0402-458b-a824-605619f8f036"
+					(reference "KB3")
 					(unit 1)
 				)
 			)
