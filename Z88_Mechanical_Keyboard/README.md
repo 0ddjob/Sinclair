@@ -26,7 +26,12 @@ I think Gateron Low Profile (KS-33) type key switches should work.
 
 ![3D image of keyboard](Z88_Mechanical_Keyboard_3D.png)
 
+## Design Videos
+- [Schematic & PCB layout](https://youtu.be/C3n-ExND1uk)
+- [Track routing & final touches](https://youtu.be/aaBBvU5d50o)
+
 ## Status
 1-Jul-2025: Work in progress<br>
 3-Jul-2025: Added 6.25u space bar layout<br>
 4-Jul-2025: Added inverted-T cursor layout<br>
+5-Jul-2025: Inverted-T cursor design routed, ready for test fabrication<br>
