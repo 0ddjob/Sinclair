@@ -7,7 +7,7 @@ I've modified the layout slightly to improve the arrangement - the cursors are n
 The layout almost matches a modern set of keycaps, apart from the custom ones.<br>
 By this, I mean the SHIFTED characters on each key match a modern keyboard so a generic set of key caps, plus some blanks, should work.
 
-![Z88 Keyboard Layout](Layout/cambridge-computer-z88_T_cursor.jpg)
+![Z88 Keyboard Layout](T_CURSOR/cambridge-computer-z88_T_cursor.jpg)
 
 ## Construction
 I think Gateron Low Profile (KS-33) type key switches should work.
