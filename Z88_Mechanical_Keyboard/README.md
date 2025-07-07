@@ -33,3 +33,5 @@ I think Gateron Low Profile (KS-33) type key switches should work.
 3-Jul-2025: Added 6.25u space bar layout<br>
 4-Jul-2025: Added inverted-T cursor layout<br>
 5-Jul-2025: Inverted-T cursor design routed, ready for test fabrication<br>
+7-Jul-2025: Design tweaked, sent to PCBWAY for test fabrication<br>
+
