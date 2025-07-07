@@ -614,6 +614,27 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "SUOMI       ENGLISH\nNOLLA     = ZERO\nYKSI      = ONE\nKAKSI     = TWO\nKOLME     = THREE\nNELJÄ     = FOUR\nVIISI     = FIVE\nKUUSI     = SIX\nSEITSEMÄN = SEVEN\nKAHDEKSAN = EIGHT\nYHDEKSÄN  = NINE\n\nVASEN     = LEFT\nOIKEIN    = RIGHT\nYLÖS      = UP\nALAS      = DOWN\nAPUA!     = HELP!"
+		(exclude_from_sim no)
+		(at 226.06 57.15 0)
+		(size 25.4 39.37)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(face "Consolas")
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "e2c7724b-5c6a-4e6b-81a9-a47424fca2cf")
+	)
 	(text_box "Columns      Rows\nCOL0 = A15   ROW0 = D7\nCOL1 = A14   ROW1 = D6\nCOL2 = A13   ROW2 = D5\nCOL3 = A12   ROW3 = D4\nCOL4 = A11   ROW4 = D3\nCOL5 = A10   ROW5 = D2\nCOL6 = A9    ROW6 = D1\nCOL7 = A8    ROW7 = D0"
 		(exclude_from_sim no)
 		(at 195.58 57.15 0)
@@ -3861,7 +3882,7 @@
 				)
 			)
 		)
-		(property "Value" "9"
+		(property "Value" "YHDEKSÄN"
 			(at 115.57 147.32 0)
 			(effects
 				(font
@@ -3997,7 +4018,7 @@
 				)
 			)
 		)
-		(property "Value" "ONE"
+		(property "Value" "YKSI"
 			(at 82.55 69.85 0)
 			(effects
 				(font
@@ -4269,7 +4290,7 @@
 				)
 			)
 		)
-		(property "Value" "DOWN"
+		(property "Value" "ALAS"
 			(at 132.08 53.34 0)
 			(effects
 				(font
@@ -4337,7 +4358,7 @@
 				)
 			)
 		)
-		(property "Value" "4"
+		(property "Value" "NELJÄ"
 			(at 132.08 69.85 0)
 			(effects
 				(font
@@ -4949,7 +4970,7 @@
 				)
 			)
 		)
-		(property "Value" "RIGHT"
+		(property "Value" "OIKEIN"
 			(at 115.57 53.34 0)
 			(effects
 				(font
@@ -5289,7 +5310,7 @@
 				)
 			)
 		)
-		(property "Value" "3"
+		(property "Value" "KOLME"
 			(at 115.57 69.85 0)
 			(effects
 				(font
@@ -5561,7 +5582,7 @@
 				)
 			)
 		)
-		(property "Value" "8"
+		(property "Value" "KAHDEKSAN"
 			(at 165.1 147.32 0)
 			(effects
 				(font
@@ -5765,7 +5786,7 @@
 				)
 			)
 		)
-		(property "Value" "6"
+		(property "Value" "KUUSI"
 			(at 165.1 69.85 0)
 			(effects
 				(font
@@ -6304,7 +6325,7 @@
 				)
 			)
 		)
-		(property "Value" "5"
+		(property "Value" "VIISI"
 			(at 148.59 69.85 0)
 			(effects
 				(font
@@ -6372,7 +6393,7 @@
 				)
 			)
 		)
-		(property "Value" "7"
+		(property "Value" "SEITSEMÄN"
 			(at 165.1 132.08 0)
 			(effects
 				(font
@@ -6712,7 +6733,7 @@
 				)
 			)
 		)
-		(property "Value" "LEFT"
+		(property "Value" "VASEN"
 			(at 99.06 53.34 0)
 			(effects
 				(font
@@ -6912,7 +6933,7 @@
 				)
 			)
 		)
-		(property "Value" "ZERO"
+		(property "Value" "NOLLA"
 			(at 82.55 147.32 0)
 			(effects
 				(font
@@ -6980,7 +7001,7 @@
 				)
 			)
 		)
-		(property "Value" "HELP"
+		(property "Value" "APUA!"
 			(at 66.04 38.1 0)
 			(effects
 				(font
@@ -7588,7 +7609,7 @@
 				)
 			)
 		)
-		(property "Value" "2"
+		(property "Value" "KAKSI"
 			(at 99.06 69.85 0)
 			(effects
 				(font
@@ -7724,7 +7745,7 @@
 				)
 			)
 		)
-		(property "Value" "UP"
+		(property "Value" "YLÖS"
 			(at 148.59 53.34 0)
 			(effects
 				(font
