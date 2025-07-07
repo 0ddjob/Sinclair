@@ -1,15 +1,13 @@
 # Z88 Mechanical Keyboard
 I've not had too much luck with the keyboard on my Z88 - seems a bit flaky after 40-odd years.  So I thought I'd try to create a mechanical replacement.<br>
 
-Not sure if it'll work - still need to figure out the mounting points, plus also try to get it all routed.<br>
+I've modified the layout slightly to improve the arrangement - the cursors are now a "proper" inverted-T layout.
 
 ## Layout
 The layout almost matches a modern set of keycaps, apart from the custom ones.<br>
 By this, I mean the SHIFTED characters on each key match a modern keyboard so a generic set of key caps, plus some blanks, should work.
 
-![Z88 Keyboard Layout](Layout/cambridge-computer-z88_7u_space.jpg)
-
-[Gist for keyboard design](https://gist.github.com/0ddjob/f5774ed0544e4333186cfc4f175c03b7)
+![Z88 Keyboard Layout](Layout/cambridge-computer-z88_T_cursor.jpg)
 
 ## Construction
 I think Gateron Low Profile (KS-33) type key switches should work.
@@ -22,11 +20,16 @@ I think Gateron Low Profile (KS-33) type key switches should work.
 - 1 x 1.75u (DIAMOND/blank)
 - 2 x 2u (SHIFT)
 - 1 x 7u (SPACE)
-- Stabiliser for SPACE
+- Stabilisers for 2u & 7u key caps
 
-![3D image of keyboard](Z88_Mechanical_Keyboard_3D.png)
+![3D image of keyboard](Z88_Mechanical_Keyboard_T_cursor_3D.png)
+
+## Design Videos
+- [Schematic & PCB layout](https://youtu.be/C3n-ExND1uk)
+- [Track routing & final touches](https://youtu.be/aaBBvU5d50o)
 
 ## Status
 1-Jul-2025: Work in progress<br>
 3-Jul-2025: Added 6.25u space bar layout<br>
 4-Jul-2025: Added inverted-T cursor layout<br>
+5-Jul-2025: Inverted-T cursor design routed, ready for test fabrication<br>
