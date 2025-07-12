@@ -1,16 +1,16 @@
 # Z88 Mechanical Keyboard
 I've not had too much luck with the keyboard on my Z88 - seems a bit flaky after 40-odd years.  So I thought I'd try to create a mechanical replacement.<br>
 
-I've modified the layout slightly to improve the arrangement - the cursors are now a "proper" inverted-T layout.
+I've modified the layout slightly to improve the arrangement - the cursors are now a "proper" inverted-T layout.<br>
 
 ## Layout
 The layout almost matches a modern set of keycaps, apart from the custom ones.<br>
-By this, I mean the SHIFTED characters on each key match a modern keyboard so a generic set of key caps, plus some blanks, should work.
+By this, I mean the SHIFTED characters on each key match a modern keyboard so a generic set of key caps, plus some blanks, should work.<br>
 
 ![Z88 Keyboard Layout](T_CURSOR/cambridge-computer-z88_T_cursor.jpg)
 
 ## Construction
-I think Gateron Low Profile (KS-33) type key switches should work.
+I think Gateron Low Profile (KS-33) type key switches should work nicely - this is how I've designed the PCB.<br>
 
 - 64 key switches
 - 53 x 1u
@@ -34,4 +34,5 @@ I think Gateron Low Profile (KS-33) type key switches should work.
 4-Jul-2025: Added inverted-T cursor layout<br>
 5-Jul-2025: Inverted-T cursor design routed, ready for test fabrication<br>
 7-Jul-2025: Design tweaked, sent to PCBWAY for test fabrication<br>
+12-Jul-2025: Test PCBs shipped from PCBWAY, est. about one week to arrive (18-21 July)<br>
 
