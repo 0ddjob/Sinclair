@@ -12,7 +12,7 @@ By this, I mean the SHIFTED characters on each key match a modern keyboard so a 
 ## Construction
 The board is designed to use Gateron Low Profile (KS-33) type key switches with Cherry MX-style key caps.<br>
 
-- 64 key switches
+- 64 key switches (Gateron KS-33)
 - 53 x 1u
 - 5 x 1u blank (INDEX, MENU, HELP, SQUARE, CAPS LOCK)
 - 1 x 1.25x2u (ISO ENTER)
