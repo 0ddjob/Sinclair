@@ -20,7 +20,7 @@ I think Gateron Low Profile (KS-33) type key switches should work nicely - this 
 - 1 x 1.75u (DIAMOND/blank)
 - 2 x 2u (SHIFT)
 - 1 x 7u (SPACE)
-- Stabilisers for 2u & 7u key caps
+- Stabilisers for 7u SPACE bar
 
 ![3D image of keyboard](Z88_Mechanical_Keyboard_T_cursor_3D.png)
 
