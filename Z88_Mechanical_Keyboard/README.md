@@ -36,5 +36,5 @@ I think Gateron Low Profile (KS-33) type key switches should work nicely - this 
 5-Jul-2025: Inverted-T cursor design routed, ready for test fabrication<br>
 7-Jul-2025: Design tweaked, sent to PCBWAY for test fabrication<br>
 12-Jul-2025: Test PCBs shipped from PCBWAY<br>
-25-Jul-2025: Test PCBs arrived, working!!, need to adjust size of PCB slightly (see video)<br>
+25-Jul-2025: Test PCBs arrived, working!!, need to adjust size of PCB slightly (see [video](https://youtu.be/vxIY81ir3Ao))<br>
 
