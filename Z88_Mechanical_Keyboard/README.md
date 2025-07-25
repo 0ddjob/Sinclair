@@ -21,8 +21,8 @@ The board is designed to use Gateron Low Profile (KS-33) type key switches with 
 - 2 x 2u (SHIFT)
 - 1 x 7u (SPACE)
 - Cherry stabilisers for 7u SPACE bar
-- 2 x 8-pin thin film connectors (e.g. TE Connectivity/AMP 5-520314-8)
-- 2 x 8-pin strips of thin film cables (e.g. Parlex PSR1635-08)
+- 2 x 8-pin thin film connectors (e.g. TE Connectivity/AMP 5-520314-8 or similar)
+- 2 x 8-pin strips of thin film cables (e.g. Parlex PSR1635-08 or similar)
 
 ![3D image of keyboard](Z88_Mechanical_Keyboard_T_cursor_3D.png)
 
