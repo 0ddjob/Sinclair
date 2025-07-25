@@ -10,7 +10,7 @@ By this, I mean the SHIFTED characters on each key match a modern keyboard so a 
 ![Z88 Keyboard Layout](T_CURSOR/cambridge-computer-z88_T_cursor.jpg)
 
 ## Construction
-I think Gateron Low Profile (KS-33) type key switches should work nicely - this is how I've designed the PCB.<br>
+The board is designed to use Gateron Low Profile (KS-33) type key switches with Cherry MX-style key caps.<br>
 
 - 64 key switches
 - 53 x 1u
@@ -20,7 +20,9 @@ I think Gateron Low Profile (KS-33) type key switches should work nicely - this 
 - 1 x 1.75u (DIAMOND/blank)
 - 2 x 2u (SHIFT)
 - 1 x 7u (SPACE)
-- Stabilisers for 7u SPACE bar
+- Cherry stabilisers for 7u SPACE bar
+- 2 x 8-pin thin film connectors (e.g. TE Connectivity/AMP 5-520314-8)
+- 2 x 8-pin strips of flat cables (e.g. Parlex PSR1635-08)
 
 ![3D image of keyboard](Z88_Mechanical_Keyboard_T_cursor_3D.png)
 
@@ -36,5 +38,5 @@ I think Gateron Low Profile (KS-33) type key switches should work nicely - this 
 5-Jul-2025: Inverted-T cursor design routed, ready for test fabrication<br>
 7-Jul-2025: Design tweaked, sent to PCBWAY for test fabrication<br>
 12-Jul-2025: Test PCBs shipped from PCBWAY<br>
-25-Jul-2025: Test PCBs arrived, working!!, need to adjust size of PCB slightly (see [video](https://youtu.be/vxIY81ir3Ao))<br>
+25-Jul-2025: Test PCBs arrived, working!!, need to adjust size of PCB slightly ... maybe (see [video](https://youtu.be/vxIY81ir3Ao))<br>
 
