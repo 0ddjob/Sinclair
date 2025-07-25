@@ -31,6 +31,10 @@ The board is designed to use Gateron Low Profile (KS-33) type key switches with 
 - [Track routing & final touches](https://youtu.be/aaBBvU5d50o)
 - [Testing the Rev. A PCB](https://youtu.be/vxIY81ir3Ao)
 
+## Further Work To Do
+- Delete stabilisers for SHIFT and ENTER keys, don't seem to be required
+- Figure out what to do with connectors to motherboard ...
+
 ## Status
 1-Jul-2025: Work in progress<br>
 3-Jul-2025: Added 6.25u space bar layout<br>
