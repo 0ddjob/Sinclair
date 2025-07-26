@@ -12,8 +12,8 @@ By this, I mean the SHIFTED characters on each key match a modern keyboard so a 
 ## Changes From Original Z88 Layout
 The reason for these changes are either to improve the layout (cursors) or to simplify getting key caps (CAPS LOCK & DIAMOND)
 - (Rev. A) Cursors are now an inverted-T
-- (Rev. B) CAPS LOCK moved to standard location between TAB and LH SHIFT
-- (Rev. B) DIAMOND moved to original CAPS LOCK location (bottom right)
+- (Rev. B) CAPS LOCK moved to standard location between TAB and LH SHIFT and is now 1.75u
+- (Rev. B) DIAMOND moved to original CAPS LOCK location (bottom right) and is now 1u
 
 ## Construction
 The board is designed to use Gateron Low Profile (KS-33) type key switches with Cherry MX-style key caps.<br>
