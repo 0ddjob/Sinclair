@@ -9,18 +9,24 @@ By this, I mean the SHIFTED characters on each key match a modern keyboard so a 
 
 ![Z88 Keyboard Layout](T_CURSOR/cambridge-computer-z88_T_cursor.jpg)
 
+## Changes From Original Z88 Layout
+The reason for these changes are either to improve the layout (cursors) or to simplify getting key caps (CAPS LOCK & DIAMOND)
+- (Rev. A) Cursors are now an inverted-T
+- (Rev. B) CAPS LOCK moved to standard location between TAB and LH SHIFT
+- (Rev. B) DIAMOND moved to original CAPS LOCK location (bottom right)
+
 ## Construction
 The board is designed to use Gateron Low Profile (KS-33) type key switches with Cherry MX-style key caps.<br>
 
 - 64 key switches (Gateron KS-33)
 - 53 x 1u
-- 5 x 1u blank (INDEX, MENU, HELP, SQUARE, CAPS LOCK)
+- 5 x 1u blank (INDEX, MENU, HELP, SQUARE, DIAMOND)
 - 1 x 1.25x2u (ISO ENTER)
 - 1 x 1.5u (TAB)
-- 1 x 1.75u (DIAMOND/blank)
+- 1 x 1.75u (CAPS LOCK)
 - 2 x 2u (SHIFT)
 - 1 x 7u (SPACE)
-- Cherry stabilisers for 7u SPACE bar
+- Stabilisers for 7u SPACE bar? (must work with Gateron low-profile)
 - 2 x 8-pin thin film connectors (e.g. TE Connectivity/AMP 5-520314-8 or similar)
 - 2 x 8-pin strips of thin film cables (e.g. Parlex PSR1635-08 or similar)
 
