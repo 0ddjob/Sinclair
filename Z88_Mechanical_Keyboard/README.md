@@ -12,8 +12,9 @@ By this, I mean the SHIFTED characters on each key match a modern keyboard so a 
 ## Changes From Original Z88 Layout
 The reason for these changes are either to improve the layout (cursors) or to simplify getting key caps (CAPS LOCK & DIAMOND)
 - (Rev. A) Cursors are now an inverted-T
-- (Rev. B) CAPS LOCK moved to standard location between TAB and LH SHIFT and is now 1.75u
-- (Rev. B) DIAMOND moved to original CAPS LOCK location (bottom right) and is now 1u
+- (Rev. B) CAPS LOCK moved to standard location between TAB and LH SHIFT and is now 1.75u (a standard size in key cap sets)
+- (Rev. B) DIAMOND moved to original DOWN cursor location (bottom right) and is now 1u (can use a blank)
+- (Rev. C) Possibly external version via Z88 expansion port featuring switchable on/off backlit keys ... ?
 
 ## Construction
 The board is designed to use Gateron Low Profile (KS-33) type key switches with Cherry MX-style key caps.<br>
@@ -30,6 +31,8 @@ The board is designed to use Gateron Low Profile (KS-33) type key switches with 
 - 2 x 8-pin thin film connectors (e.g. TE Connectivity/AMP 5-520314-8 or similar)
 - 2 x 8-pin strips of thin film cables (e.g. Parlex PSR1635-08 or similar)
 
+I've not been able to find suitable stabilisers yet so am considering using three key switches for the SPACE bar.<br>
+
 ![3D image of keyboard](Z88_Mechanical_Keyboard_T_cursor_3D.png)
 
 ## Related Videos
@@ -37,9 +40,16 @@ The board is designed to use Gateron Low Profile (KS-33) type key switches with 
 - [Track routing & final touches](https://youtu.be/aaBBvU5d50o)
 - [Testing the Rev. A PCB](https://youtu.be/vxIY81ir3Ao)
 
-## Further Work To Do (Rev. B)
+## Further Work To Do 
+### Rev. B
 - Delete stabilisers for SHIFT and ENTER keys, don't seem to be required (done)
 - Figure out what to do with connectors to motherboard so LCD bezel will fit ...
+- Switch CAPS LOCK and DIAMOND locations (done)
+
+### Rev. C
+- Create an external version (no changes required to Z88) connecting via Z88 expansion port
+- Add option for backlit keys (switchable off if running on batteries)
+- Z88 expansion port connector still available?
 
 ## Status
 1-Jul-2025: Work in progress<br>
@@ -49,4 +59,5 @@ The board is designed to use Gateron Low Profile (KS-33) type key switches with 
 7-Jul-2025: Design tweaked, sent to PCBWAY for test fabrication<br>
 12-Jul-2025: Test PCBs shipped from PCBWAY<br>
 25-Jul-2025: Test PCBs arrived, working!!, need to adjust size of PCB slightly ... maybe (see [video](https://youtu.be/vxIY81ir3Ao))<br>
+26-Jul-2025: Started work on Rev. B
 

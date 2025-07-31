@@ -54,8 +54,7 @@ I'm finally getting my hands on a Cambridge Computers Z88.  I realised that the 
 [Cambridge Computer Z88: Part 2 (Backpack Drive - First Attempt)](https://youtu.be/SjToMHrZwcI)
 
 ## Status
-19-Jun-2025: Test boards ordered from PCBWAY<br>
-30-Jun-2025: Tested successfully
+30-Jun-2025: Tested successfully<br>
 
 # [Z88 Serial Port Converter (DE9-to-DE9)](/Z88_Serial_DE9_Converter)
 Simple board to convert Z88 DE9 serial port to standard DE9 to use with Serial-to-USB converter, for example.
@@ -67,6 +66,6 @@ Simple board to convert Z88 DE9 serial port to standard DE9 to use with Serial-t
 The original keyboard on my Z88 seems a bit flaky - let's try designing a nice, modern replacement.
 
 ## Status
-1-Jul-2025: Work in progress.<br>
+25-Jul-2025: Rev. A board tested successfully, some tweaks needed.<br>
 
 
