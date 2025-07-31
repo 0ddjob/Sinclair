@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Z88 Mechanical Keyboard")
-		(date "26-Jul-2025")
+		(date "30-Jul-2025")
 		(rev "B")
 		(company "Brett Hallen")
 		(comment 1 "www.youtube.com/@Brfff")
@@ -614,9 +614,69 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "Note:\nI have allowed for a stabiliser bar for the 7u SPACE bar, however I'm not aware of any PCB-mount stabilisers that are currently (Jul 2025) compatible with Gateron KS-33 low profile key switches."
+		(exclude_from_sim no)
+		(at 58.42 167.64 0)
+		(size 39.37 16.51)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "38ed3f74-b170-4058-b42f-177654c5df46")
+	)
+	(text_box "Key Cap Requirements:\nCherry MX compatible\nISO ENTER (2u by 1.25/1u)\nTAB (1.5u)\nCAPS LOCK (1.75u)\nSHIFT: 2u (two of)\nSPACE: 7u\n"
+		(exclude_from_sim no)
+		(at 118.11 166.37 0)
+		(size 31.75 17.78)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "526713fd-6082-4c69-9d44-a9f7c0d05f11")
+	)
+	(text_box "Thin Film Connectors:\nTE Connectivity 5-520314-8 or similar\n\nKey Switches:\nGateron KS-33 low profile\n\nMounting Holes:\nM3"
+		(exclude_from_sim no)
+		(at 196.85 52.07 0)
+		(size 45.72 19.05)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "a26f3cd1-b36f-4d73-8c78-8740e1a49602")
+	)
 	(text_box "SUOMI       ENGLISH\nNOLLA     = ZERO\nYKSI      = ONE\nKAKSI     = TWO\nKOLME     = THREE\nNELJÄ     = FOUR\nVIISI     = FIVE\nKUUSI     = SIX\nSEITSEMÄN = SEVEN\nKAHDEKSAN = EIGHT\nYHDEKSÄN  = NINE\n\nVASEN     = LEFT\nOIKEIN    = RIGHT\nYLÖS      = UP\nALAS      = DOWN\nAPUA!     = HELP!"
 		(exclude_from_sim no)
-		(at 226.06 57.15 0)
+		(at 229.87 81.28 0)
 		(size 25.4 39.37)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -637,7 +697,7 @@
 	)
 	(text_box "Columns      Rows\nCOL0 = A15   ROW0 = D7\nCOL1 = A14   ROW1 = D6\nCOL2 = A13   ROW2 = D5\nCOL3 = A12   ROW3 = D4\nCOL4 = A11   ROW4 = D3\nCOL5 = A10   ROW5 = D2\nCOL6 = A9    ROW6 = D1\nCOL7 = A8    ROW7 = D0"
 		(exclude_from_sim no)
-		(at 195.58 57.15 0)
+		(at 199.39 81.28 0)
 		(size 26.67 22.86)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
@@ -3194,7 +3254,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 205.74 106.68 0)
+		(at 198.12 135.89 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -3203,7 +3263,7 @@
 		(fields_autoplaced yes)
 		(uuid "072b8629-3f3c-4f5f-a08d-930301457bd5")
 		(property "Reference" "H1"
-			(at 208.28 105.4099 0)
+			(at 200.66 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3212,7 +3272,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 208.28 107.9499 0)
+			(at 200.66 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3221,7 +3281,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 205.74 106.68 0)
+			(at 198.12 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3230,7 +3290,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 205.74 106.68 0)
+			(at 198.12 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3239,7 +3299,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 205.74 106.68 0)
+			(at 198.12 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3342,7 +3402,7 @@
 				)
 			)
 		)
-		(property "Value" "UNDERSCORE"
+		(property "Value" "_UNDERSCORE_"
 			(at 115.57 38.1 0)
 			(effects
 				(font
@@ -3387,6 +3447,70 @@
 			(project ""
 				(path "/52bc2244-0402-458b-a824-605619f8f036"
 					(reference "SW5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 219.71 135.89 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "135db243-086d-4adb-a87b-c792e1c117e7")
+		(property "Reference" "H3"
+			(at 222.25 134.6199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 222.25 137.1599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 219.71 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 219.71 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 219.71 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Z88_Mechanical_Keyboard_Rev_B"
+				(path "/52bc2244-0402-458b-a824-605619f8f036"
+					(reference "H3")
 					(unit 1)
 				)
 			)
@@ -3818,7 +3942,7 @@
 				)
 			)
 		)
-		(property "Value" "YHDEKSÄN"
+		(property "Value" "YHDEKSÄN (9)"
 			(at 115.57 147.32 0)
 			(effects
 				(font
@@ -3954,7 +4078,7 @@
 				)
 			)
 		)
-		(property "Value" "YKSI"
+		(property "Value" "YKSI (1)"
 			(at 82.55 69.85 0)
 			(effects
 				(font
@@ -4226,7 +4350,7 @@
 				)
 			)
 		)
-		(property "Value" "ALAS"
+		(property "Value" "ALAS (D)"
 			(at 132.08 53.34 0)
 			(effects
 				(font
@@ -4294,7 +4418,7 @@
 				)
 			)
 		)
-		(property "Value" "NELJÄ"
+		(property "Value" "NELJÄ (4)"
 			(at 132.08 69.85 0)
 			(effects
 				(font
@@ -4634,7 +4758,7 @@
 				)
 			)
 		)
-		(property "Value" "EQUALS"
+		(property "Value" "=EQUALS="
 			(at 132.08 38.1 0)
 			(effects
 				(font
@@ -4821,6 +4945,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 219.71 143.51 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6163e645-1cde-4576-95fb-92b9cf7ddf55")
+		(property "Reference" "H4"
+			(at 222.25 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 222.25 144.7799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
+			(at 219.71 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 219.71 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 219.71 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "Z88_Mechanical_Keyboard_Rev_B"
+				(path "/52bc2244-0402-458b-a824-605619f8f036"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 148.59 152.4 0)
 		(unit 1)
@@ -4906,7 +5094,7 @@
 				)
 			)
 		)
-		(property "Value" "OIKEIN"
+		(property "Value" "OIKEIN (R)"
 			(at 115.57 53.34 0)
 			(effects
 				(font
@@ -5093,6 +5281,70 @@
 		)
 	)
 	(symbol
+		(lib_id "Clueless_Engineer:Stabiliser")
+		(at 48.26 173.99 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "70621152-24f9-44f6-9b21-c91a58259935")
+		(property "Reference" "KB11"
+			(at 49.53 173.9543 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SPACE"
+			(at 49.53 176.4943 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_7.00u"
+			(at 48.26 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 48.26 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/52bc2244-0402-458b-a824-605619f8f036"
+					(reference "KB11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 66.04 107.95 0)
 		(unit 1)
@@ -5246,7 +5498,7 @@
 				)
 			)
 		)
-		(property "Value" "KOLME"
+		(property "Value" "KOLME (3)"
 			(at 115.57 69.85 0)
 			(effects
 				(font
@@ -5382,7 +5634,7 @@
 				)
 			)
 		)
-		(property "Value" "DOT"
+		(property "Value" ".DOT."
 			(at 49.53 118.11 0)
 			(effects
 				(font
@@ -5518,7 +5770,7 @@
 				)
 			)
 		)
-		(property "Value" "KAHDEKSAN"
+		(property "Value" "KAHDEKSAN (8)"
 			(at 165.1 147.32 0)
 			(effects
 				(font
@@ -5722,7 +5974,7 @@
 				)
 			)
 		)
-		(property "Value" "KUUSI"
+		(property "Value" "KUUSI (6)"
 			(at 165.1 69.85 0)
 			(effects
 				(font
@@ -5790,7 +6042,7 @@
 				)
 			)
 		)
-		(property "Value" "SEMICOLON"
+		(property "Value" ";SEMICOLON;"
 			(at 66.04 132.08 0)
 			(effects
 				(font
@@ -5835,70 +6087,6 @@
 			(project "Z88_Mechanical_Keyboard"
 				(path "/52bc2244-0402-458b-a824-605619f8f036"
 					(reference "SW50")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Clueless_Engineer:Stabiliser")
-		(at 229.87 134.62 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9969ecc7-4327-498c-b7b9-242ace7e90b1")
-		(property "Reference" "KB11"
-			(at 231.14 134.5843 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "SPACE_BAR"
-			(at 231.14 137.1243 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "PCM_Mounting_Keyboard_Stabilizer:Stabilizer_Cherry_MX_7.00u"
-			(at 229.87 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 229.87 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "Z88_Mechanical_Keyboard"
-				(path "/52bc2244-0402-458b-a824-605619f8f036"
-					(reference "KB11")
 					(unit 1)
 				)
 			)
@@ -6197,7 +6385,7 @@
 				)
 			)
 		)
-		(property "Value" "VIISI"
+		(property "Value" "VIISI (5)"
 			(at 148.59 69.85 0)
 			(effects
 				(font
@@ -6265,7 +6453,7 @@
 				)
 			)
 		)
-		(property "Value" "SEITSEMÄN"
+		(property "Value" "SEITSEMÄN (7)"
 			(at 165.1 132.08 0)
 			(effects
 				(font
@@ -6605,7 +6793,7 @@
 				)
 			)
 		)
-		(property "Value" "VASEN"
+		(property "Value" "VASEN (L)"
 			(at 99.06 53.34 0)
 			(effects
 				(font
@@ -6741,7 +6929,7 @@
 				)
 			)
 		)
-		(property "Value" "NOLLA"
+		(property "Value" "NOLLA (0)"
 			(at 82.55 147.32 0)
 			(effects
 				(font
@@ -6997,7 +7185,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 205.74 114.3 0)
+		(at 198.12 143.51 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -7006,7 +7194,7 @@
 		(fields_autoplaced yes)
 		(uuid "d87fc55f-4420-4fca-8cc8-58f1f8dc667c")
 		(property "Reference" "H2"
-			(at 208.28 113.0299 0)
+			(at 200.66 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7015,7 +7203,7 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 208.28 115.5699 0)
+			(at 200.66 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7024,7 +7212,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_3.2mm_M3"
-			(at 205.74 114.3 0)
+			(at 198.12 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7033,7 +7221,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 205.74 114.3 0)
+			(at 198.12 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7042,7 +7230,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 205.74 114.3 0)
+			(at 198.12 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7213,7 +7401,7 @@
 				)
 			)
 		)
-		(property "Value" "COMMA"
+		(property "Value" ",COMMA,"
 			(at 66.04 118.11 0)
 			(effects
 				(font
@@ -7417,7 +7605,7 @@
 				)
 			)
 		)
-		(property "Value" "KAKSI"
+		(property "Value" "KAKSI (2)"
 			(at 99.06 69.85 0)
 			(effects
 				(font
@@ -7553,7 +7741,7 @@
 				)
 			)
 		)
-		(property "Value" "YLÖS"
+		(property "Value" "YLÖS (U)"
 			(at 148.59 53.34 0)
 			(effects
 				(font
