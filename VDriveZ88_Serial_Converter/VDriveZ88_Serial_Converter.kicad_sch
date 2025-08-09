@@ -1743,6 +1743,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "Note/Huom!\nZ88 serial pinout is as per Z88 serial port so a straight-through cable can be used to connect to the Z88."
+		(exclude_from_sim no)
+		(at 139.7 62.23 0)
+		(size 48.26 10.16)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "f1cd93b6-d206-4320-97b5-b50bc845fcca")
+	)
 	(no_connect
 		(at 125.73 57.15)
 		(uuid "1a99eb36-2fc5-4708-af49-d95ac0c559a9")
@@ -1921,22 +1941,22 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 148.59 91.44 270)
+		(at 165.1 92.71 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "2584f893-6f22-4bf9-a610-09c85fd9cad0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.59 98.2957 90)
+			(at 171.9557 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2075,29 +2095,29 @@
 	)
 	(global_label "+5V"
 		(shape input)
-		(at 148.59 83.82 90)
+		(at 157.48 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "7377a4ad-35f1-43a9-bcea-32609bbc4eb1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.59 76.9643 90)
+			(at 150.6243 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "GND"
 		(shape input)
-		(at 125.73 91.44 180)
+		(at 133.35 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2107,7 +2127,7 @@
 		)
 		(uuid "7892808c-a9d1-46e9-9a95-f3666a397757")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.8743 91.44 0)
+			(at 126.4943 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2383,7 +2403,7 @@
 	)
 	(global_label "+5V"
 		(shape input)
-		(at 125.73 93.98 180)
+		(at 133.35 95.25 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2393,7 +2413,7 @@
 		)
 		(uuid "e0ac7de3-fa9a-4067-9f3d-ccd4819f1d4d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.8743 93.98 0)
+			(at 126.4943 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2496,7 +2516,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 130.81 91.44 0)
+		(at 138.43 92.71 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2505,7 +2525,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ecc3a20-ef7d-4e74-b4b3-80e8cc12d6c9")
 		(property "Reference" "J3"
-			(at 133.35 91.4399 0)
+			(at 140.97 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2514,7 +2534,7 @@
 			)
 		)
 		(property "Value" "Power"
-			(at 133.35 93.9799 0)
+			(at 140.97 95.2499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2523,7 +2543,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
-			(at 130.81 91.44 0)
+			(at 138.43 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2532,7 +2552,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 130.81 91.44 0)
+			(at 138.43 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2541,7 +2561,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 130.81 91.44 0)
+			(at 138.43 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2630,16 +2650,15 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 148.59 87.63 0)
+		(at 161.29 92.71 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "47830763-16e2-465c-bc62-07a89b432a06")
 		(property "Reference" "C2"
-			(at 152.4 86.3599 0)
+			(at 160.0199 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2648,7 +2667,7 @@
 			)
 		)
 		(property "Value" "1µF"
-			(at 152.4 88.8999 0)
+			(at 165.354 88.646 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2657,7 +2676,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm"
-			(at 149.5552 91.44 0)
+			(at 165.1 91.7448 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2666,7 +2685,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 148.59 87.63 0)
+			(at 161.29 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2675,7 +2694,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 148.59 87.63 0)
+			(at 161.29 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
