@@ -27,6 +27,8 @@ For [standard RS232 pin numbering](https://cambridgez88.jira.com/wiki/spaces/UG/
 
 Note that pin headers are optional - you could just directly solder the wires to the PCB.<br>
 
+The centre of each M2 mounting hole is inset 3mm from each edge.<br>
+
 ![Serial interface board](VDriveZ88_Serial_Interface_3D.png)
 
 ## Status
