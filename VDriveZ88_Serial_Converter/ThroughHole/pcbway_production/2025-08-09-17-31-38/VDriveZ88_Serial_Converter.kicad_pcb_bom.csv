@@ -1,0 +1,7 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+"C1, C2, C3, C4, C5",5,1µF,C_Disc_D3.8mm_W2.6mm_P2.50mm,,,,tht,Unpolarized capacitor
+J1,1,VDrive,PinHeader_1x08_P2.00mm_Vertical,,,,tht,"Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J2,1,Z88,PinHeader_1x09_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x09, script generated (kicad-library-utils/schlib/autogen/connector/)"
+J3,1,Power,PinHeader_1x02_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+R1,1,2.2KΩ,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,,,,tht,Resistor
+U1,1,MAX232,DIP-16_W7.62mm,,,,tht,"Dual RS232 driver/receiver, 5V supply, 120kb/s, 0C-70C"

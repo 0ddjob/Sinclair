@@ -1,0 +1,11 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+118.205,-55.82,180.0,top,C1,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1µF,smt
+134.2425,-55.82,0.0,top,C2,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1µF,smt
+118.2425,-59.82,180.0,top,C3,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1µF,smt
+118.2425,-57.82,0.0,top,C4,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1µF,smt
+118.2425,-61.82,180.0,top,C5,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1µF,smt
+119.8925,-67.75,90.0,top,J1,,,PinHeader_1x08_P2.00mm_Vertical,VDrive,tht
+114.1625,-51.82,90.0,top,J2,,,PinHeader_1x09_P2.54mm_Vertical,Z88,tht
+134.2425,-61.82,180.0,top,J3,,,PinHeader_1x02_P2.54mm_Vertical,Power,tht
+118.2425,-63.82,180.0,top,R1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2.2KΩ,smt
+126.33,-59.835,0.0,top,U1,,,SOIC-16W_7.5x10.3mm_P1.27mm,MAX232,smt

@@ -1,0 +1,11 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+79.505,-55.26,180.0,top,C1,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,1µF,tht
+92.245,-55.26,0.0,top,C2,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,1µF,tht
+79.505,-62.88,180.0,top,C3,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,1µF,tht
+77.005,-59.07,0.0,top,C4,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,1µF,tht
+79.505,-67.96,180.0,top,C5,,,C_Disc_D3.8mm_W2.6mm_P2.50mm,1µF,tht
+98.595,-55.260166,0.0,top,J1,,,PinHeader_1x08_P2.00mm_Vertical,VDrive,tht
+73.155,-54.1,0.0,top,J2,,,PinHeader_1x09_P2.54mm_Vertical,Z88,tht
+87.125,-50.18,-90.0,top,J3,,,PinHeader_1x02_P2.54mm_Vertical,Power,tht
+90.935,-76.85,180.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2.2KΩ,tht
+82.045,-55.26,0.0,top,U1,,,DIP-16_W7.62mm,MAX232,tht
