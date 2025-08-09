@@ -20,18 +20,18 @@ The reason for these changes are either to improve the layout (cursors) or to si
 The board is designed to use Gateron Low Profile (KS-33) type key switches with Cherry MX-style key caps.<br>
 
 - 64 key switches (Gateron KS-33)
-- 53 x 1u
+- 53 x 1u key caps
 - 5 x 1u blank (INDEX, MENU, HELP, SQUARE, DIAMOND)
 - 1 x 1.25x2u (ISO ENTER)
 - 1 x 1.5u (TAB)
 - 1 x 1.75u (CAPS LOCK)
 - 2 x 2u (SHIFT)
 - 1 x 7u (SPACE)
-- Stabilisers for 7u SPACE bar? (must work with Gateron low-profile)
+- (Optional) Stabiliser for 7u SPACE bar? (must work with Gateron low-profile)
 - 2 x 8-pin thin film connectors (e.g. TE Connectivity/AMP 5-520314-8 or similar)
 - 2 x 8-pin strips of thin film cables (e.g. Parlex PSR1635-08 or similar)
 
-I've not been able to find suitable stabilisers yet so am considering using three key switches for the SPACE bar.<br>
+I've not been able to find suitable PCB-mount stabilisers yet.<br>
 
 ![3D image of keyboard](Z88_Mechanical_Keyboard_T_cursor_3D.png)
 
@@ -41,14 +41,8 @@ I've not been able to find suitable stabilisers yet so am considering using thre
 - [Testing the Rev. A PCB](https://youtu.be/vxIY81ir3Ao)
 
 ## Further Work To Do 
-### Rev. B
-- Delete stabilisers for SHIFT and ENTER keys, don't seem to be required (done)
-- Figure out what to do with connectors to motherboard so LCD bezel will fit ...
-- Switch CAPS LOCK and DIAMOND locations (done)
-
 ### Rev. C
 - Create an external version (no changes required to Z88) connecting via Z88 expansion port
-- Add option for backlit keys (switchable off if running on batteries)
 - Z88 expansion port connector still available?
 
 ## Status
@@ -59,5 +53,7 @@ I've not been able to find suitable stabilisers yet so am considering using thre
 7-Jul-2025: Design tweaked, sent to PCBWAY for test fabrication<br>
 12-Jul-2025: Test PCBs shipped from PCBWAY<br>
 25-Jul-2025: Test PCBs arrived, working!!, need to adjust size of PCB slightly ... maybe (see [video](https://youtu.be/vxIY81ir3Ao))<br>
-26-Jul-2025: Started work on Rev. B
+26-Jul-2025: Started work on Rev. B<br>
+31-Jul-2025: Completed Rev. B changes<br>
+
 
