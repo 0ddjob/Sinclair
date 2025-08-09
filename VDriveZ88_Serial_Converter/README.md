@@ -23,6 +23,7 @@ For [standard RS232 pin numbering](https://cambridgez88.jira.com/wiki/spaces/UG/
 - 1 x 9-way 2.54mm pitch pin header for Z88 serial
 - 1 x 8-way 2mm pitch pin header for VDrive interface
 - 1 x 2-way 2.54mm pin header for +5VDC power input
+- 2 x M2 screws for mounting the PCB
 
 Note that pin headers are optional - you could just directly solder the wires to the PCB.<br>
 
