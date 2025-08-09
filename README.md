@@ -68,4 +68,11 @@ The original keyboard on my Z88 seems a bit flaky - let's try designing a nice, 
 ## Status
 25-Jul-2025: Rev. A board tested successfully, some tweaks needed.<br>
 
+# [VDrive Serial Interface for Z88](/VDriveZ88_Serial_Converter)
+Serial interface converter for the Z88 to use a VDrive.
+
+## Status
+9-Aug-2025: Initial design completed
+
+
 
