@@ -39,6 +39,7 @@ I've not been able to find suitable PCB-mount stabilisers yet.<br>
 - [Schematic & PCB layout](https://youtu.be/C3n-ExND1uk)
 - [Track routing & final touches](https://youtu.be/aaBBvU5d50o)
 - [Testing the Rev. A PCB](https://youtu.be/vxIY81ir3Ao)
+- [Testing the Rev. B PCB](https://youtu.be/KMXMAZTbPG8)
 
 ## Further Work To Do 
 ### Rev. C
@@ -55,5 +56,9 @@ I've not been able to find suitable PCB-mount stabilisers yet.<br>
 25-Jul-2025: Test PCBs arrived, working!!, need to adjust size of PCB slightly ... maybe (see [video](https://youtu.be/vxIY81ir3Ao))<br>
 26-Jul-2025: Started work on Rev. B<br>
 31-Jul-2025: Completed Rev. B changes<br>
+1-Aug-2025: Submitted to PCBway<br>
+5-Aug-2025: Rev. B PCBs shipped from PCBway<br>
+15-Aug-2025: Rev. B test PCBs arrived & tested, almost perfect.<br>
+
 
 
