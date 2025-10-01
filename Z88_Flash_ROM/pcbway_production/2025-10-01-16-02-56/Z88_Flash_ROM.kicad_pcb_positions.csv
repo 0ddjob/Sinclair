@@ -1,0 +1,4 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+154.14,-72.69,-90.0,top,J1,,,PinHeader_1x03_P2.54mm_Vertical,Conn_01x03,tht
+145.45,-71.65,0.0,top,U1,,,DIP-32_W15.24mm_Socket,SST39SF040,tht
+142.32,-71.53,0.0,top,U2,,,DIP-32_Adapter,Z88_ROM,tht

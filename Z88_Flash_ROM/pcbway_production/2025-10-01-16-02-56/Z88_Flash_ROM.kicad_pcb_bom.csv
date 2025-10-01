@@ -1,0 +1,4 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description
+J1,1,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,,,,tht,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+U1,1,SST39SF040,DIP-32_W15.24mm_Socket,,,,tht,Silicon Storage Technology (SSF) 512k x 8 Flash ROM
+U2,1,Z88_ROM,DIP-32_Adapter,,,,tht,
