@@ -1477,6 +1477,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "Notes:\n[1] Use low profile IC sockets (i.e. Mill-Max series 115)\n[2] Minimise PCB thickness (<1.6mm)"
+		(exclude_from_sim no)
+		(at 140.97 142.24 0)
+		(size 71.12 10.16)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "7667de9b-fc1c-4b7a-8326-4e3171f6c6e5")
+	)
 	(junction
 		(at 153.67 50.8)
 		(diameter 0)
@@ -4020,7 +4040,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Conn_01x03"
+		(property "Value" "To Z88"
 			(at 49.53 113.0299 0)
 			(effects
 				(font
