@@ -1,0 +1,28 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+132.9,-66.83,0.0,top,D1,,,D_DO-35_SOD27_P7.62mm_Horizontal,1N4148,tht
+132.9,-70.64,0.0,top,D2,,,D_DO-35_SOD27_P7.62mm_Horizontal,1N4148,tht
+132.9,-74.45,0.0,top,D3,,,D_DO-35_SOD27_P7.62mm_Horizontal,1N4148,tht
+132.9,-78.26,0.0,top,D4,,,D_DO-35_SOD27_P7.62mm_Horizontal,1N4148,tht
+132.9,-82.07,0.0,top,D5,,,D_DO-35_SOD27_P7.62mm_Horizontal,1N4148,tht
+132.9,-85.88,0.0,top,D6,,,D_DO-35_SOD27_P7.62mm_Horizontal,1N4148,tht
+132.9,-89.69,0.0,top,D7,,,D_DO-35_SOD27_P7.62mm_Horizontal,1N4148,tht
+132.9,-93.5,0.0,top,D8,,,D_DO-35_SOD27_P7.62mm_Horizontal,1N4148,tht
+93.495,-61.105,0.0,top,J1,,,Z88 Expansion Connector,Z88 Expansion Connector,tht
+146.05,-119.38,-90.0,top,J2,,,PinHeader_2x08_P2.54mm_Vertical,From Keyboard,tht
+109.59,-66.556667,0.0,top,R1,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2.2KΩ,tht
+117.21,-119.976667,180.0,top,R10,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,47KΩ,tht
+117.21,-116.161334,180.0,top,R11,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,47KΩ,tht
+117.21,-112.346,180.0,top,R12,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,47KΩ,tht
+117.21,-108.530667,180.0,top,R13,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,47KΩ,tht
+117.21,-104.715334,180.0,top,R14,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,47KΩ,tht
+117.21,-100.9,180.0,top,R15,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,47KΩ,tht
+117.21,-97.084667,180.0,top,R16,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,47KΩ,tht
+109.59,-70.372,0.0,top,R2,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2.2KΩ,tht
+109.59,-74.187334,0.0,top,R3,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2.2KΩ,tht
+109.59,-78.002667,0.0,top,R4,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2.2KΩ,tht
+109.59,-81.818,0.0,top,R5,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2.2KΩ,tht
+109.59,-85.633334,0.0,top,R6,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2.2KΩ,tht
+109.59,-89.448667,0.0,top,R7,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2.2KΩ,tht
+109.59,-93.264,0.0,top,R8,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,2.2KΩ,tht
+117.21,-123.792,180.0,top,R9,,,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,47KΩ,tht
+123.19,-123.792,90.0,top,RN1,,,R_Array_SIP9,100KΩ,tht

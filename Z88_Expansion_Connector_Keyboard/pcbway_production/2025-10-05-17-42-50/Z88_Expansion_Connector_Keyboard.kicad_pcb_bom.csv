@@ -1,0 +1,7 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Device,Sim.Pins
+"D1, D2, D3, D4, D5, D6, D7, D8",8,1N4148,D_DO-35_SOD27_P7.62mm_Horizontal,,,,tht,"100V 0.15A standard switching diode, DO-35",D,1=K 2=A
+J1,1,Z88 Expansion Connector,Z88 Expansion Connector,,,,tht,Z88 Cambridge Computer expansion connector,,
+J2,1,From Keyboard,PinHeader_2x08_P2.54mm_Vertical,,,,tht,"Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",,
+"R1, R2, R3, R4, R5, R6, R7, R8",8,2.2KΩ,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,,
+"R10, R11, R12, R13, R14, R15, R16, R9",8,47KΩ,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,,,,tht,Resistor,,
+RN1,1,100KΩ,R_Array_SIP9,,,,tht,"8 resistor network, star topology, bussed resistors, small symbol",,
