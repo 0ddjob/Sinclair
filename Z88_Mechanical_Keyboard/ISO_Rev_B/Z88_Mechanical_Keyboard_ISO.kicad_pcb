@@ -8,7 +8,7 @@
 	)
 	(paper "A3")
 	(title_block
-		(title "Z88 Mechanical Keyboard (Inverted-T Cursor)")
+		(title "Z88 Mechanical Keyboard (ISO Layout")
 		(date "16-Aug-2025")
 		(rev "B")
 		(company "Brett Hallen")
@@ -28660,7 +28660,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Rev. B"
+	(gr_text "ISO\nRev. B"
 		(at 342.680241 97.5557 0)
 		(layer "F.SilkS")
 		(uuid "24c8174a-2602-48b4-9453-42d0b11fe5e2")
